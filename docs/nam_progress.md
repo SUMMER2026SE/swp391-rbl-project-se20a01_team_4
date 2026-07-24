@@ -25,3 +25,4 @@
 - [2026-07-24 20:26:37] feat(admin-ui): add 23 admin-ui feature
 - [2026-07-24 20:26:37] feat(admin-api): add 24 admin-api feature
 - [2026-07-24 20:26:37] feat(admin-api): add 25 admin-api feature
+- [2026-07-24 20:26:37] feat(admin-api): add 26 admin-api feature
