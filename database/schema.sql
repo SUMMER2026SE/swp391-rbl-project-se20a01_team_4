@@ -1961,3 +1961,5 @@ IF COL_LENGTH('dbo.WaitingList', 'ConvertedAppointmentId') IS NULL
 IF COL_LENGTH('dbo.WaitingList', 'UpdatedAt') IS NULL
     ALTER TABLE dbo.WaitingList ADD UpdatedAt DATETIME NOT NULL DEFAULT GETDATE();
 GO
+
+/* employee leaves table definition placeholder */
