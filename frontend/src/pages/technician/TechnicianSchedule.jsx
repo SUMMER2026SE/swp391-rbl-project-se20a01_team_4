@@ -1398,3 +1398,5 @@ export default function TechnicianSchedule() {
     </TechnicianLayout>
   );
 }
+
+// Technician schedule page initialized
