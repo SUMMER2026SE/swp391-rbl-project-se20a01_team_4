@@ -1965,3 +1965,4 @@ GO
 /* employee leaves table definition placeholder */
 /* commission rates table definition placeholder */
 /* commission logs table definition placeholder */
+/* seeder for treatment notes v2 placeholder */
