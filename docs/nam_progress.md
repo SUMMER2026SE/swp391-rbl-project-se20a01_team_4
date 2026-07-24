@@ -1,3 +1,4 @@
 # Nam - Manager/Admin Progress
 
 - [2026-07-24 20:26:32] feat(admin-ui): add 1 admin-ui feature
+- [2026-07-24 20:26:34] feat(admin-ui): add 2 admin-ui feature
