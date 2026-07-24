@@ -1963,3 +1963,4 @@ IF COL_LENGTH('dbo.WaitingList', 'UpdatedAt') IS NULL
 GO
 
 /* employee leaves table definition placeholder */
+/* commission rates table definition placeholder */
