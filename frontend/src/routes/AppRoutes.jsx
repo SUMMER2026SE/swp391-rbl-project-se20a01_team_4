@@ -69,6 +69,10 @@ import TechnicianAppointmentDetail from "../pages/technician/TechnicianAppointme
 import TechnicianAppointments from "../pages/technician/TechnicianAppointments";
 import TechnicianCustomers from "../pages/technician/TechnicianCustomers";
 import TreatmentNotesHistory from "../pages/technician/TreatmentNotesHistory";
+import TreatmentNotesV2 from "../pages/technician/TreatmentNotesV2";
+import TechnicianAttendanceManager from "../pages/technician/TechnicianAttendanceManager";
+import TechnicianNotifications from "../pages/technician/TechnicianNotifications";
+import TechnicianReviews from "../pages/technician/TechnicianReviews";
 import TechnicianEarnings from "../pages/technician/TechnicianEarnings";
 import TechnicianProfile from "../pages/technician/TechnicianProfile";
 import TechnicianSettings from "../pages/technician/TechnicianSettings";
