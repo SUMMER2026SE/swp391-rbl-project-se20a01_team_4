@@ -1967,3 +1967,4 @@ GO
 /* commission logs table definition placeholder */
 /* seeder for treatment notes v2 placeholder */
 /* seeder for commissions placeholder */
+/* index on treatment_notes customer_id placeholder */
