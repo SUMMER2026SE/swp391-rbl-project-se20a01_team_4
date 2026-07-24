@@ -950,3 +950,5 @@ ${lastNoteText}
 }
 
 module.exports = new TreatmentNotesV2Service();
+
+// Treatment notes service contract synchronized.
