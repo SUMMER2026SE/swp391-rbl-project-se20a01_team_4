@@ -14,6 +14,8 @@ app.get("/", (req, res) => res.json({ message: "Beauty Salon Management API" }))
 app.use("/api/auth", require("./modules/auth/auth.routes"));
 app.use("/api/customers", require("./modules/customers/customers.routes"));
 app.use("/api/technician", require("./modules/technician/technician.routes"));
+app.use("/api/attendance", require("./modules/technician/attendance.routes"));
+app.use("/api/timesheet", require("./modules/technician/timesheet.routes"));
 app.use("/api/employees", require("./modules/employees/employees.routes"));
 app.use("/api/services", require("./modules/services/services.routes"));
 app.use("/api/packages", require("./modules/packages/packages.routes"));
@@ -41,6 +43,7 @@ app.use("/api/admin/ai-monitoring", require("./modules/admin/adminAIMonitoring.r
 app.use("/api/receptionist", require("./modules/receptionist/receptionist.routes"));
 app.use("/api/vouchers", require("./modules/vouchers/vouchers.routes"));
 app.use("/api/waiting-list", require("./modules/waiting-list/waiting-list.routes"));
+app.use("/api/v2/treatment-notes", require("./modules/treatment-notes-v2/treatment-notes-v2.routes"));
 
 app.use(errorMiddleware);
 module.exports = app;
