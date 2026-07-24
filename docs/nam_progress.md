@@ -40,3 +40,4 @@
 - [2026-07-24 20:26:39] feat(admin-api): add 38 admin-api feature
 - [2026-07-24 20:26:39] feat(admin-api): add 39 admin-api feature
 - [2026-07-24 20:26:39] feat(admin-api): add 40 admin-api feature
+- [2026-07-24 20:26:39] chore(admin-api): add 41 admin-api feature
