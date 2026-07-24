@@ -1966,3 +1966,4 @@ GO
 /* commission rates table definition placeholder */
 /* commission logs table definition placeholder */
 /* seeder for treatment notes v2 placeholder */
+/* seeder for commissions placeholder */
