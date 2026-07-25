@@ -1,1 +1,1 @@
-// Dev 1 (Customer Actor) - Task 1: Khởi tạo Next.js project cho Customer Web
+{"name":"beauty-salon-frontend","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite --host ::","build":"vite build","preview":"vite preview"},"dependencies":{"@react-oauth/google":"latest","@vitejs/plugin-react":"^6.0.4","axios":"^1.18.1","form-data":"^4.0.6","react":"latest","react-dom":"latest","react-router-dom":"7.18.1","recharts":"^3.8.1","vite":"^8.1.5"}}
