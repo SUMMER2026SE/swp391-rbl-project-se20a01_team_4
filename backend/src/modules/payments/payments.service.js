@@ -1675,9 +1675,10 @@ async function checkAndUpdatePayosStatusByAppointment(appointmentId) {
     const paymentResult = await pool
       .request()
       .input("AppointmentId", sql.Int, appointmentId).query(`
-        SELECT TOP 1 p.PaymentId, p.TransactionCode, p.Status, p.InvoiceId, i.CustomerId
+        SELECT TOP 1 p.PaymentId, p.TransactionCode, p.Status, p.InvoiceId, a.CustomerId
         FROM Payments p
         INNER JOIN Invoices i ON i.InvoiceId = p.InvoiceId
+        INNER JOIN Appointments a ON i.AppointmentId = a.AppointmentId
         WHERE i.AppointmentId = @AppointmentId
           AND p.PaymentMethod = 'PAYOS'
           AND p.Status = 'PENDING'
