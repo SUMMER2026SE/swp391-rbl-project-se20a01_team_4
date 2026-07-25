@@ -1,3 +1,5 @@
+const path = require('path');
+require('dotenv').config({ path: path.resolve(__dirname, '../../.env') });
 const mssql = require('mssql');
 let mssqlPool;
 
@@ -100,7 +102,7 @@ async function connectDB() {
     password: process.env.DB_PASSWORD || "sa",
     server: process.env.DB_SERVER || "localhost",
     database: process.env.DB_DATABASE || "BeautySalonSystem1",
-    port: parseInt(process.env.DB_PORT || "1433"),
+    port: parseInt(process.env.DB_PORT || "62145"),
     options: {
       encrypt: process.env.DB_ENCRYPT === "true",
       trustServerCertificate: process.env.DB_TRUST_CERT === "true",

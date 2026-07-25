@@ -8,11 +8,11 @@
 
 | Thành Viên | Phụ Trách Actor | Tổng Commit |
 | :--- | :--- | :---: |
-| 👨‍💻 **Dev 1** | **Customer (Khách Hàng)** | **74 Commits** |
-| 👨‍💻 **Dev 2** | **Receptionist (Lễ Tân)** | **50 Commits** |
-| 👨‍💻 **Dev 3** | **Technician (Kỹ Thuật Viên)** | **43 Commits** |
-| 👨‍💻 **Dev 4** | **Manager / Admin (Quản Lý)** | **52 Commits** |
-| 👨‍💻 **Dev 5** | **System & AI (Hệ thống Core)** | **44 Commits** |
+| 👨‍💻 **Dương Gia Kiên** | **Customer (Khách Hàng)** | **74 Commits** |
+| 👨‍💻 **Nguyễn Hoàng Minh Tuyên ** | **Receptionist (Lễ Tân)** | **50 Commits** |
+| 👨‍💻 **Nguyễn Nhật Toàn ** | **Technician (Kỹ Thuật Viên)** | **43 Commits** |
+| 👨‍💻 **Đỗ Tiến Nam  ** | **Manager / Admin (Quản Lý)** | **52 Commits** |
+| 👨‍💻 **Hồ Thăng Tùng ** | **System & AI (Hệ thống Core)** | **44 Commits** |
 | **TỔNG CỘNG**| **Toàn bộ hệ thống theo người dùng** | **263 Commits** |
 
 ---
